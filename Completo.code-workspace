@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\Projeto Relogio"
+		},
+		{
+			"path": "..\\Projeto Clima"
+		},
+		{
+			"path": "..\\Jogo da Velha"
+		},
+		{
+			"path": "..\\Projeto Starbucks"
+		},
+		{
+			"path": "..\\Desafio Css cartao de visita"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projeto Pagina de Captura"
+	}
+}
